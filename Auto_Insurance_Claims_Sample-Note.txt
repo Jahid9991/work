@@ -1,0 +1,31 @@
+Downloaded from:
+
+Published: Auto Insurance Claims - Automobile Insurance claims including location, policy type and claim amount
+
+http://dyzz9obi78pm5.cloudfront.net/app/image/id/560ec66d32131c9409f2ba54/n/Auto_Insurance_Claims_Sample.csv
+
+
+
+motorins.txt from:
+https://opendata.stackexchange.com/questions/7807/where-can-i-find-automobile-insurance-claims-data-set/8962#8962
+
+
+
+library(insuranceData)
+
+data(AutoClaims)
+## maybe str(AutoClaims) ; plot(AutoClaims) ...
+
+
+Details
+http://instruction.bus.wisc.edu/jfrees/jfreesbooks/Regression%20Modeling/BookWebDec2010/
+
+DataDescriptions.pdf
+
+Source
+http://instruction.bus.wisc.edu/jfrees/jfreesbooks/Regression%20Modeling/BookWebDec2010/data.html
+
+References
+Frees E.W. (2010), Regression Modeling with Actuarial and Financial Applications, Cambridge University Press.
+
+
